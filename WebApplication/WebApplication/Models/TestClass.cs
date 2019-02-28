@@ -7,5 +7,7 @@ namespace WebApplication.Models
 {
     public class TestClass
     {
+
+        JHHMBJ,MNMNM
     }
 }
